@@ -1,0 +1,4 @@
+
+rsquid:S1192#"ODefine a constant instead of duplicating this literal "+201128282353" 13 times.(áª²Ğıÿÿÿÿ8»üË”à-
+|squid:S1450"YRemove the "contactsRv" field and declare it as a local variable in the relevant methods.(¬ÛÙ÷ùÿÿÿÿ8Ø¶²‘à-
+squid:S1450"^Remove the "contactsAdapter" field and declare it as a local variable in the relevant methods.(ÆğŒÆıÿÿÿÿ8‡’ˆ•à-
